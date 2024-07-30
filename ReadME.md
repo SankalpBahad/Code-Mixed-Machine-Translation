@@ -8,8 +8,8 @@ Presentation Link : https://docs.google.com/presentation/d/1e4THowfDgD55vh69wYXX
 
 ## Team Members
 
-- Utsav Shekhar
 - Sankalp Bahad
+- Utsav Shekhar
 - Yash Bhaskar
 
 ## Course
